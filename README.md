@@ -1,6 +1,6 @@
 # Space-Invaders
 A simplified replica of the classic arcade game Space Invaders, created for an assignment in COMP_SCI 376: Introduction to Game Development and Design, taught by [Professor Ian Horswill](https://github.com/ianhorswill/CS376-student) at Northwestern University.
-\* **Version:** Unity 2022.3.47f1
+- **Version:** Unity 2022.3.47f1
 
 ## How to play
 It's a classic, you know the rules. You're a little green guy shooting at aliens.
@@ -20,7 +20,7 @@ The game starts immediately and will restart, regardless of winning or losing.
 Press A to move right and D to move left. Shoot using the spacebar.
 
 ## Credits
-\* **Space Invader Sprites:** [Zigurous](https://github.com/zigurous/unity-space-invaders-tutorial)
-\* **Code implementation reference:** [Zigurous](https://www.youtube.com/watch?v=qWDQgmdUzWI)
-\* **Sound:** [alchiba](https://samplefocus.com/samples/pew-short-percussive-laser-sound-effect)
-\* **Scoreboard:** Past assignments created by [Ian Horswill](https://github.com/ianhorswill/CS376-student)
+- **Space Invader Sprites:** [Zigurous](https://github.com/zigurous/unity-space-invaders-tutorial)
+- **Code implementation reference:** [Zigurous](https://www.youtube.com/watch?v=qWDQgmdUzWI)
+- **Sound:** [alchiba](https://samplefocus.com/samples/pew-short-percussive-laser-sound-effect)
+- **Scoreboard:** Past assignments created by [Ian Horswill](https://github.com/ianhorswill/CS376-student)
