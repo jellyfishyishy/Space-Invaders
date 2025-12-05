@@ -1,0 +1,20 @@
+***SPACE INVADERS***
+
+The game starts immediately.
+To move right: A
+To move left: D
+To shoot: spacebar
+
+Enemies are the white creatures moving from side to side. 
+You are the little green guy at the very bottom. The player may move laterally from side to side, 
+but not up and down. 
+The green things above the player are bunkers; these serve as shields against the enemies.
+If this game were better, these bunkers would deteriorate over time as they get hit with missiles.
+But it's not :/.
+Enemies shoot missiles. If you get hit by a missile, you die. Game over :(
+You shoot green lasers. Shooting enemies earns points; you win when all enemies are gone.
+As you shoot more enemies, they will get faster and shoot more frequently. 
+If the enemies collide with the player, the game ends.
+View your score in the top right hand corner.
+
+In the case of winning or losing, the game simply restarts. 
